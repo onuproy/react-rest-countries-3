@@ -4,6 +4,7 @@ import Countries from './components/Countries/Countries';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Person from './components/Person/Person';
+
 // import { useEffect, useState } from 'react';
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
         <Person></Person>
         <Footer></Footer>
       {/* <Countries></Countries> */}
-      
+
     </div>
   );
 }
