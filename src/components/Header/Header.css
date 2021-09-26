@@ -1,0 +1,14 @@
+.menu a{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+nav.menu {
+    background: darkgray;
+    padding: 25px 0px;
+}
+nav.menu a {
+    font-size: 26px;
+    margin: 0px 15px;
+    color: #000;
+}
